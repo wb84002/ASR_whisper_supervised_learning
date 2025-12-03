@@ -1,0 +1,14 @@
+# PyCharm 設定檔
+.idea/
+
+# Python 暫存
+__pycache__/
+*.pyc
+
+# 虛擬環境
+.venv/
+venv/
+
+# 大型資料與模型（依你的專案調整）
+Data/output
+whisper-small-medical-zh/
