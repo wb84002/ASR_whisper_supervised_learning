@@ -10,5 +10,5 @@ __pycache__/
 venv/
 
 # 大型資料與模型（依你的專案調整）
-Data/output
+Data/original
 whisper-small-medical-zh/
